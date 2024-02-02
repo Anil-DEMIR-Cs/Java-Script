@@ -12,3 +12,5 @@ else
 
 // && and demek 
 // || or demek
+
+// if ve else in arasına else if {} de çalıştırılabilir lazım olursa.
